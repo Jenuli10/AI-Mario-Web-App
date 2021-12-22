@@ -1,0 +1,50 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    background-color: crimson;
+}
+.heading h3{
+    display:inline;
+    color:rgb(0, 0, 0);
+}
+.heading button{
+    float:right;
+    border: 1px solid white;
+    background-color:crimson;
+    color: black;
+}
+.big_mario_image{
+    width:100%;
+}
+#start {
+    font-size: 22px;
+    background-color: rgb(255, 225, 56) ;
+    color: black ;
+    
+}
+
+#status {
+    background-color: rgb(32, 206, 99) ;
+    color: black;
+}
+h4 {
+    background-color: rgb(103, 103, 236) ;
+    line-height: 2;
+    margin: 0px;
+    color:black;
+    
+}
+.modal-dialogue {
+    width:90%;
+}
+.instruction_image{
+    display:inline-block;
+    width:45%;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
